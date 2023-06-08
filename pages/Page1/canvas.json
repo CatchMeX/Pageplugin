@@ -108,6 +108,37 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false
+            },
+            {
+              "widgetName": "button1",
+              "isCanvas": false,
+              "displayName": "按钮",
+              "iconSVG": "/static/media/icon.4d1a6789769ffbdc0548128f48d340db.svg",
+              "searchTags": [
+                "button"
+              ],
+              "topRow": 30,
+              "bottomRow": 34,
+              "parentRowSpace": 10,
+              "showLoading": true,
+              "type": "TARO_BUTTON_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "leftColumn": 16,
+              "dynamicBindingPathList": [],
+              "text": "好的",
+              "isMobile": true,
+              "key": "kogkhkg0ij",
+              "isDeprecated": false,
+              "rightColumn": 40,
+              "widgetId": "vz4ayojtuk",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "rounded": true,
+              "fontSize": "16px"
             }
           ]
         },
